@@ -1,0 +1,6 @@
+name: Exp-HPbar
+version: '1.0.0'
+description: 'Plug-in to operate experience bar as HP bar'
+author: 'gamutyan'
+main: com.petoma.expHPbar.ExpHPbar
+api-version: '1.21'
